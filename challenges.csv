@@ -1,0 +1,8 @@
+Level,Type,Requirement,Description
+1,Trap,"A9/7,S9/7",There's a boulder trap on the ceiling. You may make a Savvy or Athletics roll. A roll greater than 9 will dismantle the trap and give experience. A roll greater than 7 avoids damage from the trap. A roll of 7 or below causes you to take 6 damage
+1,Trap,"C6,S8","A scout lies in wait as a surprise. A Savvy roll greater than 9 will allow you to sneak by unnoticed. A Charm roll of greater than 6 allows you to convince the scout you mean no harm. On a failure, the scout shoots you for 4 damage and fleas."
+1,Trap,C8,
+1,,,
+1,,,
+1,Obstacle,"A6, S8","A locked wooden door stands in front of you. An athletics roll greater than 6 can smash the door, and a savvy roll greater than 8 can pick the lock."
+1,Obstacle,"A10,C8",A sphinx statue blocks your path. An Athletics roll greater than 9 will allow you to smash the sphinx or a Charm roll greater than 8 will allow you to solve its riddles.
