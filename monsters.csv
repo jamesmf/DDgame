@@ -1,5 +1,5 @@
-Name,Attack,Defense,Damage,Health,Speed,Special,Level 
-Goblin,1,7,1,4,4,None,1
-Kobold,0,5,3,3,5,None,1
-Snake,0,7,0,2,6,Poison(1),1
-Wolf,1,8,2,3,6,,1
+Name,Attack,Defense,Damage,Health,Speed,Special,Level,Quantity
+Goblin,1,7,1,4,4,None,1,10
+Kobold,0,5,3,3,5,None,1,8
+Snake,0,7,0,2,6,Poison(1),1,6
+Wolf,1,8,2,3,6,None,1,6

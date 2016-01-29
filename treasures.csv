@@ -1,0 +1,11 @@
+Level,Name,Type,Ability,Quantity
+1,Gold,Item,10 Gold,5
+1,Belt of Health,Belt,+3 Health,3
+1,Scimitar,MeleeWeapon,+1 Damage,1
+1,Flail,MeleeWeapon,"+2 Damage,-1 Attack",1
+1,Mace,MeleeWeapon,+1 Damage,1
+1,Halberd,MeleeWeapon,"+2 Attack, -1 Speed",2
+1,Sword,MeleeWeapon,+1 Attack,2
+1,Chainmail,Armor,"+2 Defense, -1 Attack",3
+1,Leather Tunic,Armor,+1 Defense,3
+1,Amulet of Vitality,Jewelry,+3 Health,3
